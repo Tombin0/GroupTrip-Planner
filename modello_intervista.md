@@ -3,11 +3,10 @@
 ## Introduzione
 
 Grazie per avermi concesso del tempo per l’intervista. Questa intervista mi aiuterà a sviluppare un progetto per il corso di Interazione Uomo-Macchina presso la facoltà di Informatica dell’Università degli studi di Bari Aldo Moro.
-
-* Annoterò ciò che mi rispondi ma non il tuo nome: tutte le risposte manterranno l’anonimato.
-* L’intervista verrà registrata al fine della raccolta dati. Sei d’accordo con la registrazione?
-* L’intervista ha una durata massima di 30 minuti.
-* C’è qualche domanda prima di iniziare?
+Annoterò ciò che mi rispondi ma non il tuo nome: tutte le risposte manterranno l’anonimato.
+L’intervista verrà registrata al fine della raccolta dati. Sei d’accordo con la registrazione?
+L’intervista ha una durata massima di 30 minuti.
+C’è qualche domanda prima di iniziare?
 
 ---
 
