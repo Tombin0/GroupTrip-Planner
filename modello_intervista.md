@@ -61,4 +61,7 @@ Io ed il mio gruppo stiamo sviluppando un’applicazione per l’organizzazione 
 
 ## Raffreddamento
 
+* C'è qualche dubbio che ti è venuto durante l'intervista?
+* C'è qualche dettaglio che vorresti aggiungere? 
+
 Grazie per avermi aiutato con il progetto.
