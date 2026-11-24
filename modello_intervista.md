@@ -55,7 +55,6 @@ Io ed il mio gruppo stiamo sviluppando un’applicazione per l’organizzazione 
   * **[Se SÌ]** Quale sarebbe la tua attività principale?
 * Cosa ritieni importante affinché uno strumento del genere sia davvero comodo e facile da usare?
 * Faresti affidamento ad un sistema del genere per organizzare interamente il vostro viaggio, senza passare da un’agenzia o altri esterni?
-* C’è qualcosa che vorresti aggiungere?
 
 ---
 
