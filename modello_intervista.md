@@ -23,7 +23,7 @@ C’è qualche domanda prima di iniziare?
 * Quando organizzi un viaggio, preferisci fare tutto in autonomia oppure ti è capitato di affidarti ad un’agenzia viaggi? Perché? *(Serve a capire se l’utente intervistato è un probabile utilizzatore del mio sistema)*
 
 ### Fase centrale: 
-Inquadrare le competenze
+<u>Inquadrare le competenze</u>
 
 Ora passiamo al tuo rapporto con la tecnologia.
 
