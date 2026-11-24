@@ -22,7 +22,8 @@ C’è qualche domanda prima di iniziare?
 * Quando e se viaggi in gruppo, che ruolo assumi nell’organizzazione del viaggio?
 * Quando organizzi un viaggio, preferisci fare tutto in autonomia oppure ti è capitato di affidarti ad un’agenzia viaggi? Perché? *(Serve a capire se l’utente intervistato è un probabile utilizzatore del mio sistema)*
 
-### Fase centrale: Inquadrare le competenze
+### Fase centrale: 
+<u>Inquadrare le competenze<u>
 
 Ora passiamo al tuo rapporto con la tecnologia.
 
@@ -32,11 +33,11 @@ Ora passiamo al tuo rapporto con la tecnologia.
 * Quando usi gli strumenti, per lavoro o per piacere, quali sono le esperienze che ritieni importanti? *(Capire su cosa concentrarsi maggiormente)*
 * Su una scala da 1 a 5 quanto ti ritieni pratico ad utilizzare gli strumenti che hai elencato precedentemente?
 
-### Introduzione progetto
+<u>Introduzione progetto<u>
 
 > Io ed il mio gruppo stiamo sviluppando un’applicazione per l’organizzazione dei viaggi di gruppo. Questa prevede la gestione degli alloggi, dei mezzi di trasporto, il tracciamento dei pagamenti e dei debiti tra i partecipanti del gruppo (senza transazioni di denaro in app), la consultazione della mappa e dei biglietti acquistati per le diverse attrazioni. L’obiettivo è quello di semplificare e velocizzare l’organizzazione di un viaggio, soprattutto per gruppi numerosi, mettendo d’accordo tutti i componenti del gruppo.
 
-### Domande sulla piattaforma
+<u>Domande sulla piattaforma<u>
 
 * Conosci/hai mai utilizzato strumenti simili?
   * **[Se SÌ]** Potresti nominarne alcuni?
@@ -48,7 +49,7 @@ Ora passiamo al tuo rapporto con la tecnologia.
 * Riesci a nominarmi tre sistemi software, siti o app che abbiano un cattivo design?
   * **[Se SÌ]** Puoi descrivere esempi del perché abbiano un cattivo design e mostrarmeli?
 
-### Utilizzo dello strumento
+<u>Utilizzo dello strumento<u>
 
 * Pensi che ti piacerebbe usare uno strumento come quello che vogliamo creare?
   * **[Se SÌ]** Quale sarebbe la tua attività principale?
